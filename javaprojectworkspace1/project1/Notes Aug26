@@ -1,0 +1,7 @@
+Date 26/8/2019
+--------->Composition<---------
+1.Process of combining the two or more objects is know as composition.
+2.this use a relationship called HAS-A relationship.
+3.creating a refrance variable of one class in another class as global variable..this is called as HAS-A relationship.
+*** WPF author,pen,book
+	author HAS-A book and author HAS-A pen

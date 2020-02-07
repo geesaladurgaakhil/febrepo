@@ -1,0 +1,11 @@
+Date:27/8/2019
+      INBUILT LIBRARY
+**inbuilt library is a collection of inbuilt class and inbuilt interfaces..
+**these classes and interfaces are created by the java creators...
+**these are belongs to the packages like
+	1.java.lang
+	2.java.util
+	3.java.io
+** every developer has an idea about these packages.
+** for usage of these packages we need a import statement. except java.lang..
+** for java.lang we do't require any import statement because it will automatically imported.

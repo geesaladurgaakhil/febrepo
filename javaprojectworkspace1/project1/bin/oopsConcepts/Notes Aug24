@@ -1,0 +1,17 @@
+1.Abstraction:-
+->Abstraction is nothing but hiding the details of implementation method and expose only interface.
+->This is because of avoiding the unnecessary complications to users.
+->The main aim of user is to call the abstract method and use that method.This can be achived by object creation.
+->This object creation is done in helper class with an helper method..
+->The helper class contains a helper method with a return type of interface.
+->then this method creates an upcasted object and returns the referance variable to the interface by return statement.
+->finally user has to take the refrance variable and call the method..
+
+
+-------------->:ABSTRACTION SUMMARY:<-----------
+**Hiding implementation details of a method and providing access only to method signature is called abstraction.
+**Abstraction can be achieved in two ways
+	1.By using interface
+	2.By using abstract class
+**The main goal of abstraction is"User need not know where method is implemented and how method is implemented.
+**The purpose of abstraction is to avoid unnecessary confusion and complexity for user.
